@@ -1,7 +1,7 @@
-# A/A/B Testing to Inform Business Decisions
+# A/A/B Test to Inform Business Decisions
 
 ## For better view of all graphs:
-[use this link a/a/b_testing project](https://nbviewer.jupyter.org/github/Emmanuel-Nti/aab_testing/blob/master/AAB_testing.ipynb)
+[please use this link a/a/b_testing project](https://nbviewer.jupyter.org/github/Emmanuel-Nti/aab_testing/blob/master/AAB_testing.ipynb)
 
 
 | Project Description | Libraries Used | Source of Data |
