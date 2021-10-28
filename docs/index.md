@@ -12,7 +12,7 @@
 - Conclusion and recommendation
 
 ## User Distribution by Group
-All groups at present at each point in time.
+All groups were present at all times for the test.
  <p align ="center">
    <img src = "image/group distribution.PNG">
  </p>
