@@ -1,6 +1,6 @@
 # A/A/B Test to Inform Business Decisions
 <p align ="center">
-   <img src = "image/aab.jpg" width="1000" 
+   <img src = "image/aaab.jpg" width="1000" 
      height="500"></p>
 ## [Detailed Project Link](https://nbviewer.org/github/Emmanuel-Nti/aab_testing/blob/master/AAB_testing.ipynb)
 
