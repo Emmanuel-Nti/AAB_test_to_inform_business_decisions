@@ -1,8 +1,7 @@
 # A/A/B Test to Inform Business Decisions
 <p align ="center">
    <img src = "image/aab.jpg" width="1000" 
-     height="500">
- </p>
+     height="500"></p>
 ## [Detailed Project Link](https://nbviewer.org/github/Emmanuel-Nti/aab_testing/blob/master/AAB_testing.ipynb)
 
 ## How I Approached the Project
@@ -12,7 +11,7 @@
 - Formulated and tested statistical hypotheses about the test results
 - Conclusion and recommendation
 
- ## User Distribution by Group
+## User Distribution by Group
 All groups at present at each point in time.
  <p align ="center">
    <img src = "image/group distribution.PNG">
