@@ -1,5 +1,5 @@
 # A/A/B Test to Inform Business Decisions
-
+### [Project Summary](https://emmanuel-nti.github.io/AAB_test_to_inform_business_decisions/)
 ### For better view of graphs, click 👉 [a/a/b_testing project](https://nbviewer.jupyter.org/github/Emmanuel-Nti/aab_testing/blob/master/AAB_testing.ipynb)
 
 
