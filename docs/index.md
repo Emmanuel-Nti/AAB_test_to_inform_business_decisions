@@ -34,8 +34,8 @@ The funnel show stages of customers behaviour on the app. The group sizes at eac
 - The share of users that make the entire journey from their first event to payment is about 47% (high conversion rate). This can be boosted by:
   - Conducting an A/B test for each event to reveal the stage of event where conversion of the service can significantly be enhanced.
   - Using a conversion rate optimization (CRO) planner, shortening forms, increasing trust and removing friction, and etc. For instance, conversion rate at the tutorial stage is not encouraging and should be considered for removal as it is contributing to a lower conversion.
-- There is no statistical difference between groups A1 and A2 which implies the groups were splitted properly.
-- There is also no statistical difference between groups A and B which implies the test was not successful.
+- There is no statistically significant difference between groups A1 and A2 which implies the groups were splitted properly.
+- There is also no statistically significant difference between groups A and B which implies the test was not successful.
 
 ## Recommendation
 -  Stop the test, there is no difference between the groups. Hence, do not change the fonts for the entire app.
