@@ -5,26 +5,26 @@
 </p>
 ## [Detailed Project Link](https://nbviewer.org/github/Emmanuel-Nti/aab_testing/blob/master/AAB_testing.ipynb)
 
-## How I Approached the Project
+#### How I Approached the Project
 - Importation of the data and libraries
 - Preprocessed the data and carried out exploratory data analysis 
 - Studied the event funnel (the user journey)
 - Formulated and tested statistical hypotheses about the test results
 - Conclusion and recommendation
 
-## User Distribution by Group
+#### User Distribution by Group
 All groups were present at all times for the test.
  <p align ="center">
    <img src = "image/group distribution.PNG">
  </p>
  
-## User Behaviour
+#### User Behaviour
 The funnel show stages of customers behaviour on the app. The group sizes at each stage indicate the data was splitted approximately equal.
 <p align ="center">
    <img src = "image/customerjourney.png">
  </p>
  
-## General Findings
+#### General Findings
 - In preparing the data for analysis, missing values were checked, about 0.17% of duplicates were found in the data and deleted. 
 - I ensured no participant belong to more than one group, and columns were converted to required data types.
 - There were 7551 unique users in the logs, 5 types of events, and 243713 events in the logs.
@@ -37,15 +37,12 @@ The funnel show stages of customers behaviour on the app. The group sizes at eac
 - There is no statistically significant difference between groups A1 and A2 which implies the groups were splitted properly.
 - There is also no statistically significant difference between groups A and B which implies the test was not successful.
 
-## Recommendation
+#### Recommendation
 -  Stop the test, there is no difference between the groups. Hence, do not change the fonts for the entire app.
 
-## Libraries Used
-- Pandas 
-- Numpy 
-- matplotlib
-- Plotly 
-- Seaborn
-- Scipy
-- Datetime  
+#### Software and Tools
+![](https://img.shields.io/badge/Python-Pandas-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Numpy-Seaborn-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Plotly-Matplotlib-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Scipy-Datetime-informational?style=flat&color=2bbc8a)
 
