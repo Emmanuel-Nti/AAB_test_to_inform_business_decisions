@@ -3,6 +3,7 @@
    <img src = "image/aaab.jpg" width="1000" 
      height="400"> 
 </p>
+
 ## [Detailed Project Link](https://nbviewer.org/github/Emmanuel-Nti/aab_testing/blob/master/AAB_testing.ipynb)
 
 #### How I Approached the Project
